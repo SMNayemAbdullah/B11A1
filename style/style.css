@@ -155,3 +155,29 @@ margin-bottom: 15px;
 .tech-container{
 margin: 0px 40px 0px 40px;
 }
+
+/* Timing in second body */
+
+.paragrph1{
+    display: flex;
+    gap: 15px;
+    justify-content: space-evenly;
+    margin: 0px 60px 0px 60px;
+    background-color: #FFFFFF;
+   
+}
+
+.button-tech{
+background-color: #006A50 ;
+font-weight: 600;
+color: #FFFFFF;
+border: none;
+border-radius: 5px;
+margin: 5px 10px 5px 10px;
+font-family: "Fira Sans", serif;
+}
+
+.news1{
+    border-radius: 18px;
+    margin: 20px 10px 50px 20px;
+}
