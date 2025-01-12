@@ -181,3 +181,17 @@ font-family: "Fira Sans", serif;
     border-radius: 18px;
     margin: 20px 10px 50px 20px;
 }
+.donation{
+    display: flex;
+    justify-items: auto;
+    justify-content: space-evenly;
+}
+.last{
+    text-align: center;
+
+}
+
+.para1{
+    text-align: center;
+    color: #0E0E0E;
+}
